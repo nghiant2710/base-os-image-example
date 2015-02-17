@@ -1,3 +1,3 @@
-FROM digitallyseamless/archlinux-armv6h
+FROM sdhibit/rpi-raspbian
 
 COPY qemu-arm-static /usr/bin/
