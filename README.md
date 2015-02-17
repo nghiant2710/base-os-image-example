@@ -41,4 +41,4 @@ COPY . /
 CMD ["python", "/hello.py"]
 ```
 
-We've made a simple appication using the newly created image
+We've made a simple appication using the newly created image. What will you create?
